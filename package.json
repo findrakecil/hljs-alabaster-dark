@@ -13,7 +13,7 @@
     "url": "git+https://github.com/findrakecil/hljs-alabaster-dark.git"
   },
   "license": "MIT",
-  "author": "Liffindra Angga Zaaldian",
+  "author": "Liffindra Angga Zaaldian <lzaaldian@gmail.com>",
   "files": [
     "theme.css"
   ],
