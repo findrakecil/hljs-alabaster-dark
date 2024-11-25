@@ -4,7 +4,6 @@
 
 ![License](https://img.shields.io/npm/l/hljs-alabaster-dark)
 ![NPM version](https://img.shields.io/npm/v/hljs-alabaster-dark)
-![Minified size](https://img.shields.io/bundlephobia/min/hljs-alabaster-dark)
 
 Most color themes highlight everything they can, ending up looking like a fireworks show.
 
