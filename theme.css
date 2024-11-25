@@ -2,27 +2,27 @@
   display: block;
   overflow-x: auto;
   padding: 1.25rem 1.5rem 2rem;
-  color: #000;
-  background: #f7f7f7;
+  color: #CECECE;
+  background: #0E1415;
 }
 
 .hljs-comment {
-  color: #aa3731;
+  color: #DFDF8E;
 }
 
 .hljs-string,
 .hljs-meta-string,
 .hljs-regexp {
-  color: #448c27;
+  color: #95CB82;
 }
 
 .hljs-number,
 .hljs-literal {
-  color: #7a3e9d;
+  color: #CC8BC9;
 }
 
 .hljs-title {
-  color: #325cc0;
+  color: #71ADE7;
 }
 
 .hljs-deletion {

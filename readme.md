@@ -1,10 +1,10 @@
 ![Demo screenshot](./demo/screenshot-python.png)
 
-# Alabaster Theme for Highlight.js
+# Alabaster Dark Theme for Highlight.js
 
-![License](https://img.shields.io/npm/l/hljs-alabaster)
-![NPM version](https://img.shields.io/npm/v/hljs-alabaster)
-![Minified size](https://img.shields.io/bundlephobia/min/hljs-alabaster)
+![License](https://img.shields.io/npm/l/hljs-alabaster-dark)
+![NPM version](https://img.shields.io/npm/v/hljs-alabaster-dark)
+![Minified size](https://img.shields.io/bundlephobia/min/hljs-alabaster-dark)
 
 Most color themes highlight everything they can, ending up looking like a fireworks show.
 
@@ -12,29 +12,31 @@ Instead, Alabaster uses minimal highlighting. See [original motivation statement
 
 ## Demo
 
-See [demo page](https://andrew--r.github.io/hljs-alabaster).
+1. Download and extract this repository.
+2. Open `index.html` in your browser.
 
 ## Usage
 
 ### Simplest way
 
-Download [theme file](https://raw.githubusercontent.com/andrew--r/hljs-alabaster/master/theme.css) and put it wherever you need.
+Download [theme file](https://raw.githubusercontent.com/findrakecil/hljs-alabaster-dark/master/theme.css) and put it wherever you need.
 
 ### Advanced setup
 
-If your build system supports importing CSS files from node_modules, you can install `hljs-alabaster` as a dependency:
+If your build system supports importing CSS files from node_modules, you can install `hljs-alabaster-dark` as a dependency:
 
 ```
-npm install hljs-alabaster
+npm install hljs-alabaster-dark
 ```
 
 And directly import it in your CSS:
 
 ```css
-@import 'hljs-alabaster';
+@import 'hljs-alabaster-dark';
 ```
 
 ## Credits
 
 - [Highlight.js](https://highlightjs.org)
 - [Original Alabaster theme](https://github.com/tonsky/vscode-theme-alabaster)
+- [Alabaster Dark theme](https://github.com/gargakshit/vscode-theme-alabaster-dark)

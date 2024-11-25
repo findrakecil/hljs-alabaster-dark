@@ -1,7 +1,7 @@
 {
-  "name": "hljs-alabaster",
+  "name": "hljs-alabaster-dark",
   "version": "1.0.0",
-  "description": "Alabaster Theme for Highlight.js",
+  "description": "Alabaster Dark Theme for Highlight.js",
   "keywords": [
     "alabaster",
     "highlight.js",
@@ -10,10 +10,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andrew--r/hljs-alabaster.git"
+    "url": "git+https://github.com/findrakecil/hljs-alabaster-dark.git"
   },
   "license": "MIT",
-  "author": "Andrey Romanov <me@andreyromanov.com>",
+  "author": "Liffindra Angga Zaaldian",
   "files": [
     "theme.css"
   ],
