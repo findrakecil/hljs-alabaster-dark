@@ -22,9 +22,9 @@ Download [theme file](https://raw.githubusercontent.com/findrakecil/hljs-alabast
 
 ### Advanced setup
 
-If your build system supports importing CSS files from node_modules, you can install `hljs-alabaster-dark` as a dependency:
+If your build system supports importing CSS files from `node_modules`, you can install `hljs-alabaster-dark` as a dependency:
 
-```
+```sh
 npm install hljs-alabaster-dark
 ```
 
